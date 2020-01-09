@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "249655366150",
+    "firebase_url": "https://prcboardonline-cc1e5.firebaseio.com",
+    "project_id": "prcboardonline-cc1e5",
+    "storage_bucket": "prcboardonline-cc1e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:249655366150:android:ea392133272aaafe46a987",
+        "android_client_info": {
+          "package_name": "com.pinoytut.csc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "249655366150-jii9dkjg6bf0b0794hvir0oj17mlqq0m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pinoytut.csc",
+            "certificate_hash": "7652ab02a0502ce4f0b9d9ad2d8a7b12a1979f83"
+          }
+        },
+        {
+          "client_id": "249655366150-u6odqe3s04gd7b4letrphnrg2fj7k66i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ6u8hraeURaASd4OJsLlO-pqS8TbAFEM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "249655366150-u6odqe3s04gd7b4letrphnrg2fj7k66i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
